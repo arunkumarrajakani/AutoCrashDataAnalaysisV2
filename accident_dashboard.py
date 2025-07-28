@@ -3,7 +3,7 @@ import streamlit as st
 import altair as alt
 
 # Load the CSV file
-file_path = 'cleaned_crash_data.csv'
+file_path = 'cleaned_crash_data.csv'  # Update this path as needed
 df = pd.read_csv(file_path)
 
 # Convert date columns to datetime for analysis
