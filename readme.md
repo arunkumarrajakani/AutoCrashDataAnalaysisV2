@@ -141,5 +141,5 @@ Runs at: `http://localhost:3000`
 - ✅ Dynamic ETL integration from public APIs
 - ✅ Modular architecture for future city integrations
 
-Let me know if you'd like a packaged ZIP, Docker container, or cloud deployment steps!
+
 
