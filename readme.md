@@ -1,6 +1,7 @@
 # Car/Auto Crash Data Analysis (v2)
 
 An interactive data analytics system that ingests, stores, and visualizes real-time accident data from multiple US cities using an automated ETL process, a Flask API backend, and a React.js dashboard with drill-down capabilities. This is continuation to previously performed project where intial data cleansing and preparations are completed. This is enhancement where realtime api integration and frontend backend devolopments using react.js are performed.
+V1 of this project is in https://github.com/arunkumarrajakani/USAccidentsAnalysis
 
 ---
 
